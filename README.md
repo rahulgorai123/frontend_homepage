@@ -1,5 +1,5 @@
 # frontend_homepage
-**Discover your dream job with our user-friendly online job portal.Search t opportunities, build a standout profile.Connect with top companies.Your path to professional success starts here!**
+**Discover your dream job with our user-friendly online job portal.Search the opportunities, build a standout profile.Connect with top companies.Your path to professional success starts here!**
 
 ## 🖥 Tech Stack
 Frontend:
